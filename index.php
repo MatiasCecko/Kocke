@@ -174,7 +174,7 @@ session_start();
           $w = array_values($winners)[0];
           echo "<h3>Winner: {$w['ime']} {$w['priimek']}</h3>";
         } else {
-          echo '<h3>Več zmagovalcev:</h3>';
+          echo '<h3>Winners:</h3>';
           foreach ($winners as $w) {
             echo "{$w['ime']} {$w['priimek']}<br>";
           }
