@@ -1,6 +1,6 @@
-<h1>Projektna naloga 4 - HTML5 ("The bricks" )</h1>
+<h1>Projektna naloga 5 - "Kocke"</h1>
 
-Igra The Bricks, zasnovana na temo nogometne ekipe Real Madrid v tekmovanju UEFA Liga prvakov.
+
 
 <h1>SLIKE</h1>
 
