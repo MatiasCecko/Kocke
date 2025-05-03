@@ -19,7 +19,7 @@ Rezultate meta kock hranite v eno dimenzijsko tabelo
 
 ![image](https://github.com/user-attachments/assets/482c72f8-dbc1-40d5-b9a9-5e8065cd0ab6)
 
-![image](https://github.com/user-attachments/assets/38ceb3cf-8a71-475c-a70a-ca55485cdc3e)
+![image](https://github.com/user-attachments/assets/f715499e-8adc-4c2c-92e2-9243c81a730e)
 
 <h1>Sweetalerti</h1>
 
