@@ -1,13 +1,6 @@
 <h1>Projektna naloga 5 - "Kocke"</h1>
-Izdelajte simulacijo igranja z igralnimi kockami.
-Izdelajte php skripto, ki naj izpiše 3 uporabnike in vse njihove atribute(ime, priimek, naslov). Uporabnike predhodno vnestite preko obrazca oz. vnosnih polj. Za vsakega uporabnika naj se generirajo tri naključna števila na podlagi katerih naj se izrišejo 3 igralne kocke - pri izpisu vsakega uporabnika morajo biti tri igralne kocke. Skripta naj na dnu strani izpiše kdo je zmagovalec, v primeru, da je zmagovalcev več izpišite vse. Zmagovalec je tisti kateri ima največji seštevek vseh treh kock.
-Rezultat naj bo prikazan 10 sekund, nato pa naj preide nazaj na prvo stran (na obrazec za vnos uporabnikov oz. za začeteek igre) - uporabite javascript za "redirect". Naloga mora nujno vsebovati sejo ($_SESSION).
 
-Namig:
-
-Kocke prenesite z naslova http://193.2.139.22/dice/
-Uporabnike vstavite v dvodimenzisko tabelo
-Rezultate meta kock hranite v eno dimenzijsko tabelo
+I have created a dice game in PHP where users select the number of players, rounds, and dice, enter their information, and compete for the highest total score, with the winner announced before redirecting back to the start of the game. 🎲
 
 <h1>SLIKE</h1>
 
